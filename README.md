@@ -1,5 +1,4 @@
 ## Hi! 👋 I'm 0juuni
-#### Ordinary University student studying Software
 ---------------------------------------------------------------------
 ### Tech to Study
 
@@ -8,7 +7,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
-![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
 ### Follow Me
  <a href="mailto:gimyeongjun0226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kyjstar0226@gmail.com"/></a>
