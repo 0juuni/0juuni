@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm 0juuni
 ---------------------------------------------------------------------
-### Tech to Study
+### Study
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
